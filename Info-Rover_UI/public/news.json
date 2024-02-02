@@ -1,56 +1,256 @@
 [
-    {
-      "title": "Scientists Make Breakthrough in Renewable Energy",
-      "content":
-        "In a recent discovery, scientists have made a groundbreaking breakthrough in renewable energy technology, paving the way for more sustainable and eco-friendly solutions. The new development promises to revolutionize the energy sector and reduce our dependence on fossil fuels.",
-      "likeCount": 120,
-      "dislikeCount": 10,
-      "img": "https://example.com/image1.jpg",
-      "category": "Science"
-    },
-    {
-      "title": "Tech Giant Unveils Next-Gen Smartphone",
-      "content":
-        "The leading tech company has unveiled its latest innovation in the form of a next-generation smartphone. Packed with cutting-edge features and advanced technology, the device is set to redefine the smartphone market.",
-      "likeCount": 180,
-      "dislikeCount": 5,
-      "img": "https://example.com/image2.jpg",
-      "category": "Technology"
-    },
-    {
-      "title": "Global Economy Shows Signs of Recovery",
-      "content":
-        "After a challenging period, there are encouraging signs that the global economy is on the path to recovery. Analysts point to positive indicators such as increased trade, improved employment rates, and a boost in consumer confidence.",
-      "likeCount": 220,
-      "dislikeCount": 8,
-      "img": "https://example.com/image3.jpg",
-      "category": "Business"
-    },
-    {
-      "title": "New Medical Breakthrough in Cancer Treatment",
-      "content":
-        "Researchers have announced a significant breakthrough in cancer treatment, offering new hope for patients. The novel approach targets cancer cells more effectively while minimizing side effects, marking a crucial advancement in medical science.",
-      "likeCount": 150,
-      "dislikeCount": 15,
-      "img": "https://example.com/image4.jpg",
-      "category": "Health"
-    },
-    {
-     "title": "Environmental Activists Rally for Climate Action",
-     "content":
-        "Environmental activists around the world are rallying for urgent climate action. The movement calls for governments and industries to take immediate steps to address climate change and protect the planet for future generations.",
-      "likeCount": 300,
-     "dislikeCount": 20,
-     "img": "https://example.com/image5.jpg",
-      "category": "Environment"
-    },
-    {
-        "title": "Space Exploration Reaches New Heights",
-        "content": "In a historic mission, astronauts have successfully reached new heights in space exploration...",
-        "likeCount": 250,
-        "dislikeCount": 12,
-        "img": "https://example.com/image6.jpg",
-        "category": "Science"
-      }
-  ]
-
+  {
+    "title": "Tech Giant Unveils Next-Gen Smartphone",
+    "content": "The leading tech company has unveiled its latest innovation in the form of a next-generation smartphone. Packed with cutting-edge features and advanced technology, the device is set to redefine the smartphone market.",
+    "likeCount": 180,
+    "dislikeCount": 5,
+    "img": "https://example.com/image2.jpg",
+    "category": "Technology"
+  },
+  {
+    "title": "Advancements in Artificial Intelligence Enhance Daily Life",
+    "content": "AI applications become more integrated into daily life, from virtual assistants to personalized recommendations, shaping the future of technology.",
+    "likeCount": 210,
+    "dislikeCount": 10,
+    "img": "https://example.com/image16.jpg",
+    "category": "Technology"
+  },
+  {
+    "title": "Breakthrough in Genetic Research Offers Insights into Diseases",
+    "content": "Advancements in genetic research provide crucial insights into the origins of various diseases, paving the way for targeted treatments.",
+    "likeCount": 140,
+    "dislikeCount": 10,
+    "img": "https://example.com/image22.jpg",
+    "category": "Health"
+  },
+  {
+    "title": "Sustainable Practices Drive Corporate Responsibility",
+    "content": "Companies prioritize sustainability, adopting eco-friendly practices and demonstrating a commitment to corporate social responsibility.",
+    "likeCount": 220,
+    "dislikeCount": 10,
+    "img": "https://example.com/image20.jpg",
+    "category": "Business"
+  },
+  {
+    "title": "Fitness Tech Trends Transform Exercise Routines",
+    "content": "The integration of technology into fitness experiences transforms exercise routines, encouraging a tech-driven approach to health and wellness.",
+    "likeCount": 130,
+    "dislikeCount": 5,
+    "img": "https://example.com/image26.jpg",
+    "category": "Health"
+  },
+  {
+    "title": "Advancements in Artificial Intelligence Enhance Daily Life",
+    "content": "AI applications become more integrated into daily life, from virtual assistants to personalized recommendations, shaping the future of technology.",
+    "likeCount": 210,
+    "dislikeCount": 10,
+    "img": "https://example.com/image16.jpg",
+    "category": "Technology"
+  },
+  {
+    "title": "Renewable Energy Initiatives Gain Momentum Worldwide",
+    "content": "Global efforts to transition to renewable energy sources gain momentum, with countries adopting sustainable practices for a cleaner future.",
+    "likeCount": 280,
+    "dislikeCount": 15,
+    "img": "https://example.com/image27.jpg",
+    "category": "Environment"
+  },
+  {
+    "title": "E-commerce Boom Drives Innovation in Retail Industry",
+    "content": "The e-commerce sector experiences rapid growth, leading to innovative solutions and transformations in the retail landscape.",
+    "likeCount": 180,
+    "dislikeCount": 12,
+    "img": "https://example.com/image18.jpg",
+    "category": "Business"
+  },
+  {
+    "title": "Emerging Technologies Redefine the Gaming Industry",
+    "content": "Innovative technologies like augmented reality and cloud gaming redefine the gaming experience, offering immersive and interactive gameplay.",
+    "likeCount": 160,
+    "dislikeCount": 8,
+    "img": "https://example.com/image17.jpg",
+    "category": "Technology"
+  },
+  {
+    "title": "Global Trade Agreements Foster Economic Collaboration",
+    "content": "International collaborations strengthen as countries engage in strategic trade agreements, fostering economic growth and cooperation.",
+    "likeCount": 190,
+    "dislikeCount": 8,
+    "img": "https://example.com/image21.jpg",
+    "category": "Business"
+  },
+  {
+    "title": "Global Economy Shows Signs of Recovery",
+    "content": "After a challenging period, there are encouraging signs that the global economy is on the path to recovery. Analysts point to positive indicators such as increased trade, improved employment rates, and a boost in consumer confidence.",
+    "likeCount": 220,
+    "dislikeCount": 8,
+    "img": "https://example.com/image3.jpg",
+    "category": "Business"
+  },
+  {
+    "title": "Emerging Technologies Redefine the Gaming Industry",
+    "content": "Innovative technologies like augmented reality and cloud gaming redefine the gaming experience, offering immersive and interactive gameplay.",
+    "likeCount": 160,
+    "dislikeCount": 8,
+    "img": "https://example.com/image17.jpg",
+    "category": "Technology"
+  },
+  {
+    "title": "Environmental Activists Rally for Climate Action",
+    "content": "Environmental activists around the world are rallying for urgent climate action. The movement calls for governments and industries to take immediate steps to address climate change and protect the planet for future generations.",
+    "likeCount": 300,
+    "dislikeCount": 20,
+    "img": "https://example.com/image5.jpg",
+    "category": "Environment"
+  },
+  {
+    "title": "Plastic Waste Reduction Initiatives Make Strides",
+    "content": "Global initiatives focus on reducing plastic waste, with innovative solutions and awareness campaigns promoting a cleaner environment.",
+    "likeCount": 250,
+    "dislikeCount": 12,
+    "img": "https://example.com/image29.jpg",
+    "category": "Environment"
+  },{
+    "title": "Breakthroughs in Quantum Computing Transform Computing Landscape",
+    "content": "Advancements in quantum computing usher in a new era of computing capabilities, promising faster and more powerful processing for various applications.",
+    "likeCount": 190,
+    "dislikeCount": 12,
+    "img": "https://example.com/image19.jpg",
+    "category": "Technology"
+  },
+  {
+    "title": "Conservation Projects Protect Endangered Species",
+    "content": "Conservation projects contribute to the protection of endangered species, highlighting the importance of biodiversity and ecosystem preservation.",
+    "likeCount": 220,
+    "dislikeCount": 10,
+    "img": "https://example.com/image28.jpg",
+    "category": "Environment"
+  },{
+    "title": "Robotic Innovations Streamline Industrial Processes",
+    "content": "Industrial robots equipped with advanced AI and machine learning technologies streamline manufacturing processes, optimizing efficiency and precision.",
+    "likeCount": 200,
+    "dislikeCount": 15,
+    "img": "https://example.com/image23.jpg",
+    "category": "Technology"
+  },
+  {
+    "title": "New Medical Breakthrough in Cancer Treatment",
+    "content": "Researchers have announced a significant breakthrough in cancer treatment, offering new hope for patients. The novel approach targets cancer cells more effectively while minimizing side effects, marking a crucial advancement in medical science.",
+    "likeCount": 150,
+    "dislikeCount": 15,
+    "img": "https://example.com/image4.jpg",
+    "category": "Health"
+  },
+  {
+    "title": "Advancements in Mental Health Treatments Show Promise",
+    "content": "Innovations in mental health treatments offer promising results, emphasizing the importance of mental well-being in overall healthcare.",
+    "likeCount": 160,
+    "dislikeCount": 8,
+    "img": "https://example.com/image25.jpg",
+    "category": "Health"
+  },
+  {
+    "title": "Global Awareness Campaigns Inspire Eco-Friendly Practices",
+    "content": "International awareness campaigns inspire individuals and communities to adopt eco-friendly practices, fostering a sense of responsibility for the environment.",
+    "likeCount": 190,
+    "dislikeCount": 7,
+    "img": "https://example.com/image31.jpg",
+    "category": "Environment"
+  },
+  {
+    "title": "Space Exploration Reaches New Heights",
+    "content": "In a historic mission, astronauts have successfully reached new heights in space exploration...",
+    "likeCount": 250,
+    "dislikeCount": 12,
+    "img": "https://example.com/image6.jpg",
+    "category": "Science"
+  },
+  {
+    "title": "Breakthrough in Personalized Medicine Tailors Treatments",
+    "content": "Personalized medicine approaches revolutionize healthcare, tailoring treatments to individual genetic profiles for improved outcomes.",
+    "likeCount": 180,
+    "dislikeCount": 7,
+    "img": "https://example.com/image32.jpg",
+    "category": "Health"
+  },
+  {
+    "title": "Space Exploration Reaches New Heights",
+    "content": "In a historic mission, astronauts have successfully reached new heights in space exploration...",
+    "likeCount": 250,
+    "dislikeCount": 12,
+    "img": "https://example.com/image6.jpg",
+    "category": "Science"
+  },
+  {
+    "title": "Space Exploration Reaches New Heights",
+    "content": "In a historic mission, astronauts have successfully reached new heights in space exploration...",
+    "likeCount": 250,
+    "dislikeCount": 12,
+    "img": "https://example.com/image6.jpg",
+    "category": "Science"
+  },
+  {
+    "title": "Digital Health Platforms Transform Patient Care",
+    "content": "The integration of digital health platforms enhances patient care, offering convenient access to medical information and telehealth services.",
+    "likeCount": 200,
+    "dislikeCount": 10,
+    "img": "https://example.com/image33.jpg",
+    "category": "Health"
+  },
+  {
+    "title": "Space Exploration Reaches New Heights",
+    "content": "In a historic mission, astronauts have successfully reached new heights in space exploration...",
+    "likeCount": 250,
+    "dislikeCount": 12,
+    "img": "https://example.com/image6.jpg",
+    "category": "Science"
+  },
+  {
+    "title": "Innovations in Surgical Techniques Improve Outcomes",
+    "content": "Advancements in surgical techniques contribute to improved patient outcomes, minimizing invasiveness and enhancing recovery.",
+    "likeCount": 150,
+    "dislikeCount": 6,
+    "img": "https://example.com/image34.jpg",
+    "category": "Health"
+  },
+  {
+    "title": "Space Exploration Reaches New Heights",
+    "content": "In a historic mission, astronauts have successfully reached new heights in space exploration...",
+    "likeCount": 250,
+    "dislikeCount": 12,
+    "img": "https://example.com/image6.jpg",
+    "category": "Science"
+  },
+  {
+    "title": "Mindfulness and Meditation Gain Recognition in Healthcare",
+    "content": "Mindfulness and meditation practices gain recognition in healthcare, promoting mental well-being and stress reduction for patients and professionals.",
+    "likeCount": 170,
+    "dislikeCount": 5,
+    "img": "https://example.com/image35.jpg",
+    "category": "Health"
+  },
+  {
+    "title": "Space Exploration Reaches New Heights",
+    "content": "In a historic mission, astronauts have successfully reached new heights in space exploration...",
+    "likeCount": 250,
+    "dislikeCount": 12,
+    "img": "https://example.com/image6.jpg",
+    "category": "Science"
+  },
+  {
+    "title": "Precision Oncology Advances Cancer Treatment Strategies",
+    "content": "Precision oncology approaches advance cancer treatment strategies, targeting specific genetic mutations for more effective and personalized therapies.",
+    "likeCount": 190,
+    "dislikeCount": 8,
+    "img": "https://example.com/image36.jpg",
+    "category": "Health"
+  },
+  {
+    "title": "Cybersecurity Advancements Address Evolving Digital Threats",
+    "content": "As digital threats evolve, cybersecurity advancements introduce new measures to protect data and ensure the integrity of digital systems.",
+    "likeCount": 180,
+    "dislikeCount": 10,
+    "img": "https://example.com/image24.jpg",
+    "category": "Technology"
+  }
+]

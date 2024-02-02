@@ -12,20 +12,24 @@ import hotNews from '../../../../public/news.json'
 
 
 const HotTopic = () => {
+    const [newsess, setNewsess] = useState([])
     const [width1024, setWidth1024] = useState(false)
     useEffect(()=>{
+        const newses = hotNews.splice(0,6) 
+                setNewsess(newses)
         if(typeof window !== 'undefined'){
             if(window.innerWidth == 1024){
                 setWidth1024(true)
+                
             }
         }
-    })
+    },[])
     return (
         <div className='md:grid md:grid-cols-2 lg:grid-cols-4 items-center gap-5 max-w-7xl mx-auto'>
             <div className="col-span-2">
                 <div className=" ">
                 <Swiper slidesPerView={1} spaceBetween={1} freeMode={true} pagination={{clickable: true}} autoplay={{ delay: 1000, disableOnInteraction: false }} modules={[FreeMode, Pagination]} className="mySwiper">
-                  {hotNews.map((news, index) => (
+                  {newsess?.map((news, index) => (
                   <SwiperSlide key={index} className='p-10 rounded-lg'>
                     <div className='relative'>
                         <img className={`${width1024 ? 'lg:w-full' : 'lg:w-[900px]'}  rounded-lg lg:h-[380px]`} src='https://i.ibb.co/V29J9YP/nicholas-doherty-p-ONBh-Dy-OFo-M-unsplash.jpg'/>
@@ -51,7 +55,7 @@ const HotTopic = () => {
             </div>
 
 
-              {hotNews.map((news, index) =>
+              {newsess?.map((news, index) =>
               <div className='col-span-1 shadow-lg rounded-xl' key={index}>
                 <div className="card h-[380px]  bg-white gap-2 shadow-xl">
                 <figure><img className='h-[350px]' src="https://daisyui.com/images/stock/photo-1494232410401-ad00d5433cfa.jpg" alt="Album"/></figure>
