@@ -1,0 +1,63 @@
+[
+    {
+      "categoryName": "Technology",
+      "totalNews": 20,
+      "img": "https://example.com/technology.jpg"
+    },
+    {
+      "categoryName": "Science",
+      "totalNews": 15,
+      "img": "https://example.com/science.jpg"
+    },
+    {
+      "categoryName": "Business",
+      "totalNews": 18,
+      "img": "https://example.com/business.jpg"
+    },
+    {
+      "categoryName": "Health",
+      "totalNews": 12,
+      "img": "https://example.com/health.jpg"
+    },
+    {
+      "categoryName": "Entertainment",
+      "totalNews": 25,
+      "img": "https://example.com/entertainment.jpg"
+    },
+    {
+      "categoryName": "Sports",
+      "totalNews": 30,
+      "img": "https://example.com/sports.jpg"
+    },
+    {
+      "categoryName": "Politics",
+      "totalNews": 15,
+      "img": "https://example.com/politics.jpg"
+    },
+    {
+      "categoryName": "Environment",
+      "totalNews": 10,
+      "img": "https://example.com/environment.jpg"
+    },
+    {
+      "categoryName": "Travel",
+      "totalNews": 22,
+      "img": "https://example.com/travel.jpg"
+    },
+    {
+      "categoryName": "Food",
+      "totalNews": 18,
+      "img": "https://example.com/food.jpg"
+    },
+    {
+      "categoryName": "Fashion",
+      "totalNews": 15,
+      "img": "https://example.com/fashion.jpg"
+    },
+    {
+      "categoryName": "Education",
+      "totalNews": 12,
+      "img": "https://example.com/education.jpg"
+    }
+  ]
+  

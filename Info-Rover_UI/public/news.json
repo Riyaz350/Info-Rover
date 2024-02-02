@@ -1,0 +1,56 @@
+[
+    {
+      "title": "Scientists Make Breakthrough in Renewable Energy",
+      "content":
+        "In a recent discovery, scientists have made a groundbreaking breakthrough in renewable energy technology, paving the way for more sustainable and eco-friendly solutions. The new development promises to revolutionize the energy sector and reduce our dependence on fossil fuels.",
+      "likeCount": 120,
+      "dislikeCount": 10,
+      "img": "https://example.com/image1.jpg",
+      "category": "Science"
+    },
+    {
+      "title": "Tech Giant Unveils Next-Gen Smartphone",
+      "content":
+        "The leading tech company has unveiled its latest innovation in the form of a next-generation smartphone. Packed with cutting-edge features and advanced technology, the device is set to redefine the smartphone market.",
+      "likeCount": 180,
+      "dislikeCount": 5,
+      "img": "https://example.com/image2.jpg",
+      "category": "Technology"
+    },
+    {
+      "title": "Global Economy Shows Signs of Recovery",
+      "content":
+        "After a challenging period, there are encouraging signs that the global economy is on the path to recovery. Analysts point to positive indicators such as increased trade, improved employment rates, and a boost in consumer confidence.",
+      "likeCount": 220,
+      "dislikeCount": 8,
+      "img": "https://example.com/image3.jpg",
+      "category": "Business"
+    },
+    {
+      "title": "New Medical Breakthrough in Cancer Treatment",
+      "content":
+        "Researchers have announced a significant breakthrough in cancer treatment, offering new hope for patients. The novel approach targets cancer cells more effectively while minimizing side effects, marking a crucial advancement in medical science.",
+      "likeCount": 150,
+      "dislikeCount": 15,
+      "img": "https://example.com/image4.jpg",
+      "category": "Health"
+    },
+    {
+     "title": "Environmental Activists Rally for Climate Action",
+     "content":
+        "Environmental activists around the world are rallying for urgent climate action. The movement calls for governments and industries to take immediate steps to address climate change and protect the planet for future generations.",
+      "likeCount": 300,
+     "dislikeCount": 20,
+     "img": "https://example.com/image5.jpg",
+      "category": "Environment"
+    },
+    {
+        "title": "Space Exploration Reaches New Heights",
+        "content": "In a historic mission, astronauts have successfully reached new heights in space exploration...",
+        "likeCount": 250,
+        "dislikeCount": 12,
+        "img": "https://example.com/image6.jpg",
+        "category": "Science"
+      }
+  ]
+
